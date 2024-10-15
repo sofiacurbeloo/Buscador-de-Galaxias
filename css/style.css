@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(1, 1, 24);
+}
+
+main {
+    min-height: calc(100vh - 160px);
+}
+
+.background {
+  background-color: rgb(3, 2, 14);
+  box-shadow: 0 0 10px #00000080;
+}
+
+
+.img {
+  height: 12rem;
+  object-fit: cover;
+
+}
